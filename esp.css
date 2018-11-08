@@ -87,7 +87,7 @@ h2{
 	background-repeat:no-repeat;		
 	margin-left:65px;
 	margin-top:23px;
-	background-image:  url("./png/off.jpg");	
+	background-image:  url("https://image.ibb.co/jcEoHq/off.jpg");	
 	cursor:pointer;	
 }
 
@@ -99,7 +99,7 @@ h2{
 	background-repeat:no-repeat;		
 	margin-left:65px;
 	margin-top:23px;
-	background-image:  url("./png/on.jpg");	
+	background-image:  url("https://image.ibb.co/kZjYiV/on.jpg");	
 	cursor:pointer;	
 }
 
@@ -111,7 +111,7 @@ h2{
 	background-repeat:no-repeat;		
 	margin-left:65px;
 	margin-top:30px;
-	background-image:  url("./png/yok.png");	
+	background-image:  url("https://image.ibb.co/c7otiV/yok.png");	
 }
 
 .var{
@@ -122,7 +122,7 @@ h2{
 	background-repeat:no-repeat;		
 	margin-left:65px;
 	margin-top:30px;
-	background-image:  url("./png/var.png");	
+	background-image:  url("https://image.ibb.co/dFTFxq/var.png");	
 }
 
 .kp{
@@ -133,51 +133,43 @@ h2{
 	background-repeat:no-repeat;		
 	margin-left:65px;
 	margin-top:30px;
-	background-image:  url("./png/kapali.png");	
+	background-image:  url("https://image.ibb.co/fkzcAA/kapali.png");	
 }
 
 .i1{
-	background-image:  url("./png/b01.png");
+	background-image:  url("https://image.ibb.co/j6h8Hq/b01.png");
 }
 
 .i2{
-	background-image:  url("./png/bg02.png");
+	background-image:  url("https://image.ibb.co/eCecAA/bg02.png");
 }
 
 .i3{
-	background-image:  url("./png/bg03.png");	
+	background-image:  url("https://image.ibb.co/g1HKOV/bg03.png");	
 }
 
 .i4{
-	background-image:  url("./png/bg04.png");
+	background-image:  url("https://image.ibb.co/coC8Hq/bg04.png");
 }
 
 .i5{
-	background-image:  url("./png/bg05.png");
+	background-image:  url("https://image.ibb.co/bRpYiV/bg05.png");
 }
 
 .i6{
-	background-image:  url("./png/bg06.png");
-}
-
-.i7{
-	background-image:  url("./png/07.png");
+	background-image:  url("https://image.ibb.co/ekUAVA/bg06.png");
 }
 
 .i8{
-	background-image:  url("./png/bg08.png");
+	background-image:  url("https://image.ibb.co/h0wqVA/bg08.png");
 }
 
 .i9{
-	background-image:  url("./png/bg09.png");
+	background-image:  url("https://image.ibb.co/hWZzOV/bg09.png");
 }
 
 .i10{
-	background-image:  url("./png/bg10.png");
-}
-
-.i11{
-	background-image:  url("./png/11.png");
+	background-image:  url("https://image.ibb.co/fN1qVA/bg10.png");
 }
 
 .slider{
